@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: Custom-text-chunker
+Version: 0.1
+Summary: A simple Python library for splitting a text using langchain RecursiveCharacterTextSplitter .
+Author: Rajesh Pollepalli

@@ -1,0 +1,8 @@
+setup.py
+Custom_text_chunker.egg-info/PKG-INFO
+Custom_text_chunker.egg-info/SOURCES.txt
+Custom_text_chunker.egg-info/dependency_links.txt
+Custom_text_chunker.egg-info/requires.txt
+Custom_text_chunker.egg-info/top_level.txt
+text_chunker/__init__.py
+text_chunker/custom_text_chunker.py
