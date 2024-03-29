@@ -1,5 +1,6 @@
-from pip.req import parse_requirements
-from pip.download import PipSession
+import pathlib
+
+import pkg_resources
 
 """main function"""
 if __name__ == "__main__":
